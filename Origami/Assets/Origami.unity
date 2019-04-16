@@ -287,8 +287,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 402de4b9778ec954fa2c9f52fa9e9601, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  underworld: {fileID: 0}
-  objectToHide: {fileID: 0}
+  underworld: {fileID: 1611898132}
+  objectToHide: {fileID: 1896266947}
 --- !u!4 &882125433 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 440374, guid: 9aad3626f60424a429a8f3809ad70c15,
@@ -488,6 +488,11 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c601cf4818fdef646a77291c9923ef3f, type: 2}
   m_IsPrefabAsset: 0
+--- !u!1 &1611898132 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 101904, guid: 29876ca09b6f9c7408d6fe96eed99747,
+    type: 2}
+  m_PrefabInternal: {fileID: 294626058}
 --- !u!4 &1611898133 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 414534, guid: 29876ca09b6f9c7408d6fe96eed99747,
